@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6f34dd48-081e-4e97-bf28-fddf0933986b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/www.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1WDHIx9bkgYC4oqeafBdB61wx2u" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f34dd48-081e-4e97-bf28-fddf0933986b" name="Default Changelist" comment="" />
+      <created>1578677169154</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578677169154</updated>
+      <workItem from="1578677175089" duration="955000" />
+    </task>
+    <task id="LOCAL-00001" summary="Change to symbolic link">
+      <created>1578678533511</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578678533511</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Change to symbolic link" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change to symbolic link" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="247" y="23" key="CommitChangelistDialog2" timestamp="1578678531610">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="247" y="23" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1578678531610" />
+    <state x="343" y="255" key="com.intellij.ide.util.TipDialog" timestamp="1578677175916">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="343" y="255" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1578677175916" />
+    <state x="333" y="179" width="774" height="564" key="find.popup" timestamp="1578677415368">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="333" y="179" width="774" height="564" key="find.popup/0.23.1440.877@0.23.1440.877" timestamp="1578677415368" />
+  </component>
+</project>
